@@ -274,7 +274,7 @@ function create_config( )
     "file",
     "welcome"
     },
-    sudo_users = {98962756},--Sudo users
+    sudo_users = {196913251},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[ TeleAgent bot 
